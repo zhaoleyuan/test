@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.dev
 1
 2
 b1
+b2
