@@ -1,2 +1,8 @@
 add one
+<<<<<<< HEAD
 add two
+=======
+add two
+add three
+add four
+>>>>>>> dev
